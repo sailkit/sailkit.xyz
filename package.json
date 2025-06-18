@@ -1,6 +1,6 @@
 {
   "type": "module",
-  "name": "sailkit-docs",
+  "name": "sailkit.xyz",
   "version": "0.1.0",
   "scripts": {
     "dev": "vite dev",
