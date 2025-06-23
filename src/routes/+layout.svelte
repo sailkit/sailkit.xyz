@@ -80,7 +80,7 @@
         {#if mode.current}
           <div class="flex flex-1 justify-end gap-2">
             <a
-              href="https://github.com/sailkit"
+              href="https://github.com/sailkit/sailkit"
               target="_blank"
               class={buttonVariants({ variant: 'outline', size: 'icon', className: 'rounded-full' })}
             >
