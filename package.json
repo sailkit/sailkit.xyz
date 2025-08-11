@@ -60,6 +60,9 @@
     "zod": "^4.0.15"
   },
   "lint-staged": {
-    "*": "pnpm lint"
+    "*": [
+      "prettier --check",
+      "eslint"
+    ]
   }
 }
