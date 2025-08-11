@@ -16,7 +16,7 @@
   const description =
     'SailKit is an open-source toolkit for composing responsive email templates in SvelteKit applications.';
 
-  const displayTitle = $derived(title ? `${title} | SvelteKit Omakase` : 'SvelteKit Omakase');
+  const displayTitle = $derived(title ? `${title} | SailKit` : 'SailKit');
 </script>
 
 <svelte:head>
